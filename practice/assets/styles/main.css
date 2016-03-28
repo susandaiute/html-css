@@ -1,0 +1,29 @@
+
+
+navbar ul {
+  background-color: rgba(63, 97, 191);
+  margin: 5px 0;
+  padding: 15px 0;
+  list-style-type: none;
+}
+
+navbar ul li {
+  display: inline;
+}
+
+header h1 {
+  font-family: helvetica;
+}
+
+.section-list li {
+  font-family:fantasy;
+}
+
+section {
+  width:800px;
+  margin: 0 auto;
+}
+
+.chickens {
+  color:#bf3f3f;
+}
