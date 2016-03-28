@@ -1,0 +1,25 @@
+body {
+  font-family: arial;
+  text-align: center;
+}
+
+h1 {
+  color:#954535;
+  font-family: cursive;
+}
+
+.butter {
+  color: #ffff91;
+  background-color: grey;
+}
+.brown-sugar {
+  color:brown;
+}
+
+.vanilla{
+color: purple;
+}
+
+.granulatreded-sugar{
+color: red;
+}
